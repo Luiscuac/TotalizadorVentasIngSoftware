@@ -190,16 +190,35 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "f09796b79dcaf7972088a8ecebdc169597ec4cf6",
     "author": "Luiscuac",
     "commit": {
       "date": "2026-09-08T02:39:18.000Z",
       "message": "feat:prueba con descuento",
-      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/f09796b79dcaf7972088a8ecebdc169597ec4cf6"
     },
     "stats": {
       "total": 5,
       "additions": 5,
+      "deletions": 0,
+      "date": "2026-09-08"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luiscuac",
+    "commit": {
+      "date": "2026-09-08T02:47:08.000Z",
+      "message": "feat:presenter para mostrar los resultados",
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 33,
+      "additions": 33,
       "deletions": 0,
       "date": "2026-09-08"
     },

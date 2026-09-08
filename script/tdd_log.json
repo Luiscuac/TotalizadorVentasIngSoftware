@@ -188,9 +188,15 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "f09796b79dcaf7972088a8ecebdc169597ec4cf6",
     "commitName": "feat:prueba con descuento",
     "commitTimestamp": 1788835159120,
     "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:presenter para mostrar los resultados",
+    "commitTimestamp": 1788835629927,
+    "testId": 11
   }
 ]
