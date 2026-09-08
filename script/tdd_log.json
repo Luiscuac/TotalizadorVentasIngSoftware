@@ -166,9 +166,31 @@
     "testId": 9
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d14aa99434d8c167314eea112177d1b2fcc2f081",
     "commitName": "feat: implementar calcularTotalFinal aplicando descuento e impuesto",
     "commitTimestamp": 1788834965804,
     "testId": 9
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 1,
+    "numTotalTests": 9,
+    "timestamp": 1788835088711,
+    "success": false,
+    "testId": 10
+  },
+  {
+    "numPassedTests": 9,
+    "failedTests": 0,
+    "numTotalTests": 9,
+    "timestamp": 1788835126959,
+    "success": true,
+    "testId": 10
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:prueba con descuento",
+    "commitTimestamp": 1788835159120,
+    "testId": 10
   }
 ]

@@ -37,4 +37,9 @@ describe("Totalizador de Ventas", () => {
         expect(totalizador.calcularTotalFinal(20, 3, "TX")).toEqual(63.75); 
     });
 
+    it("deberia calcular el total final exacto 10 items, $100, AL", () => {
+        let totalizador = new Totalizador();
+        expect(totalizador.calcularTotalFinal(10, 100, "AL")).toEqual(1008.8); 
+    });
+
 });

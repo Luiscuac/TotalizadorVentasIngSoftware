@@ -171,12 +171,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "d14aa99434d8c167314eea112177d1b2fcc2f081",
     "author": "Luiscuac",
     "commit": {
       "date": "2026-09-08T02:36:04.000Z",
       "message": "feat: implementar calcularTotalFinal aplicando descuento e impuesto",
-      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/d14aa99434d8c167314eea112177d1b2fcc2f081"
     },
     "stats": {
       "total": 19,
@@ -186,6 +186,25 @@
     },
     "coverage": 100,
     "test_count": 8,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luiscuac",
+    "commit": {
+      "date": "2026-09-08T02:39:18.000Z",
+      "message": "feat:prueba con descuento",
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 5,
+      "deletions": 0,
+      "date": "2026-09-08"
+    },
+    "coverage": 100,
+    "test_count": 9,
     "failed_tests": 0,
     "conclusion": "success"
   }
