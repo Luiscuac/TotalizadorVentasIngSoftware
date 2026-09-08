@@ -1,7 +1,8 @@
-import totalizador from "./totalizador.js";
+import Totalizador from "./totalizador.js";
 
 describe("Totalizador de Ventas", () => {
     it("deberia calcular el precio neto multiplicando cantidad por precio", () => {
-        expect(totalizador(20, 3)).toEqual(60);
+        let totalizadorInstance = new Totalizador();
+        expect(totalizadorInstance.calcularNeto(20, 3)).toEqual(60);
     });
 });

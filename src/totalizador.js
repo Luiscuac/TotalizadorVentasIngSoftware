@@ -1,4 +1,10 @@
-function totalizador(cantidad, precio) {
-  return cantidad * precio;
+class Totalizador {
+    
+    calcularNeto(cantidad, precio) {
+        return cantidad * precio;
+    }
+
+   
 }
-export default totalizador;
+
+export default Totalizador;
