@@ -116,9 +116,23 @@
     "testId": 6
   },
   {
-    "commitId": "HEAD",
+    "commitId": "40b4c17a5a2295af2d6149211a57101ef0587768",
     "commitName": "test: añadir prueba para 10% de descuento en montos de 10000",
     "commitTimestamp": 1788833951484,
     "testId": 6
+  },
+  {
+    "numPassedTests": 6,
+    "failedTests": 0,
+    "numTotalTests": 6,
+    "timestamp": 1788834001129,
+    "success": true,
+    "testId": 7
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "test: añadir prueba para 15% de descuento en montos de 30000",
+    "commitTimestamp": 1788834012247,
+    "testId": 7
   }
 ]
