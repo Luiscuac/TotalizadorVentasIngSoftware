@@ -52,9 +52,23 @@
     "testId": 2
   },
   {
-    "commitId": "HEAD",
+    "commitId": "50fff4cc9a650bd5d4f377933061e11c4b89ec78",
     "commitName": "feat:refactor de codigo totalizador",
     "commitTimestamp": 1788833180496,
     "testId": 2
+  },
+  {
+    "numPassedTests": 2,
+    "failedTests": 0,
+    "numTotalTests": 2,
+    "timestamp": 1788833491317,
+    "success": true,
+    "testId": 3
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar descuento del 3% para montos iguales o mayores a 1000",
+    "commitTimestamp": 1788833519186,
+    "testId": 3
   }
 ]
