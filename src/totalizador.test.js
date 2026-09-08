@@ -25,4 +25,11 @@ describe("Totalizador de Ventas", () => {
         let totalizador = new Totalizador();
         expect(totalizador.calcularDescuento(30000)).toEqual(4500); 
     });
+
+    //calcular impuesto
+    it("deberia calcular el monto del impuesto basado en la base imponible y el estado", () => {
+        let totalizador = new Totalizador();
+        expect(totalizador.calcularMontoImpuesto(60, "TX")).toEqual(3.75);
+    });
+
 });

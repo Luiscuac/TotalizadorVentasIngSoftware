@@ -21,6 +21,19 @@ class Totalizador {
             return Number((neto * 0.03).toFixed(2));
         }
     }
+
+    calcularMontoImpuesto(base, estado) {
+        const tasasImpuesto = {
+            "UT": 0.0665,
+            "NV": 0.0800,
+            "TX": 0.0625,
+            "AL": 0.0400,
+            "CA": 0.0825
+        };
+        
+        const tasa = tasasImpuesto[estado] || 0;
+        return Number((base * tasa).toFixed(2));
+    }
 }
 
 export default Totalizador;

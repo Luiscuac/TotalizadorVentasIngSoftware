@@ -130,9 +130,23 @@
     "testId": 7
   },
   {
-    "commitId": "HEAD",
+    "commitId": "b5a929c5077f77489fe9fb5a45c77e063dbb1957",
     "commitName": "test: añadir prueba para 15% de descuento en montos de 30000",
     "commitTimestamp": 1788834012247,
     "testId": 7
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 0,
+    "numTotalTests": 7,
+    "timestamp": 1788834395249,
+    "success": true,
+    "testId": 8
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:calcular monto de impuesto",
+    "commitTimestamp": 1788834517489,
+    "testId": 8
   }
 ]
