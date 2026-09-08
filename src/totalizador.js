@@ -20,6 +20,7 @@ class Totalizador {
         if(neto >= 1000) {
             return Number((neto * 0.03).toFixed(2));
         }
+        return 0;
     }
 
     calcularMontoImpuesto(base, estado) {
@@ -33,6 +34,19 @@ class Totalizador {
         
         const tasa = tasasImpuesto[estado] || 0;
         return Number((base * tasa).toFixed(2));
+    }
+
+    calcularTotalFinal(cantidad, precio, estado) {
+        
+        const neto = this.calcularNeto(cantidad, precio);
+
+        const descuento = this.calcularDescuento(neto);
+
+        const precioConDescuento = neto - descuento;
+        
+        const impuesto = this.calcularMontoImpuesto(precioConDescuento, estado);
+
+        return precioConDescuento + impuesto;
     }
 }
 

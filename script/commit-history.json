@@ -152,12 +152,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "670158a815b39e5f36469c68b778c3b65cd527c7",
     "author": "Luiscuac",
     "commit": {
       "date": "2026-09-08T02:28:36.000Z",
       "message": "feat:calcular monto de impuesto",
-      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/670158a815b39e5f36469c68b778c3b65cd527c7"
     },
     "stats": {
       "total": 20,
@@ -167,6 +167,25 @@
     },
     "coverage": 100,
     "test_count": 7,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luiscuac",
+    "commit": {
+      "date": "2026-09-08T02:36:04.000Z",
+      "message": "feat: implementar calcularTotalFinal aplicando descuento e impuesto",
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 19,
+      "additions": 19,
+      "deletions": 0,
+      "date": "2026-09-08"
+    },
+    "coverage": 100,
+    "test_count": 8,
     "failed_tests": 0,
     "conclusion": "success"
   }

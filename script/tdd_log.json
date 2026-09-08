@@ -144,9 +144,31 @@
     "testId": 8
   },
   {
-    "commitId": "HEAD",
+    "commitId": "670158a815b39e5f36469c68b778c3b65cd527c7",
     "commitName": "feat:calcular monto de impuesto",
     "commitTimestamp": 1788834517489,
     "testId": 8
+  },
+  {
+    "numPassedTests": 7,
+    "failedTests": 1,
+    "numTotalTests": 8,
+    "timestamp": 1788834744857,
+    "success": false,
+    "testId": 9
+  },
+  {
+    "numPassedTests": 8,
+    "failedTests": 0,
+    "numTotalTests": 8,
+    "timestamp": 1788834901059,
+    "success": true,
+    "testId": 9
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar calcularTotalFinal aplicando descuento e impuesto",
+    "commitTimestamp": 1788834965804,
+    "testId": 9
   }
 ]
