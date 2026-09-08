@@ -95,12 +95,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "07678d355e30ade174fd8f90c072468e51e85387",
     "author": "Luiscuac",
     "commit": {
       "date": "2026-09-08T02:17:30.000Z",
       "message": "refactor: redondear calculos de dinero a dos decimales para evitar problemas de precision y calcular 7% de descuento",
-      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/07678d355e30ade174fd8f90c072468e51e85387"
     },
     "stats": {
       "total": 11,
@@ -110,6 +110,25 @@
     },
     "coverage": 100,
     "test_count": 4,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luiscuac",
+    "commit": {
+      "date": "2026-09-08T02:19:10.000Z",
+      "message": "test: añadir prueba para 10% de descuento en montos de 10000",
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 7,
+      "additions": 7,
+      "deletions": 0,
+      "date": "2026-09-08"
+    },
+    "coverage": 100,
+    "test_count": 5,
     "failed_tests": 0,
     "conclusion": "success"
   }
