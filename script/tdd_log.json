@@ -8,9 +8,31 @@
     "testId": 0
   },
   {
-    "commitId": "HEAD",
+    "commitId": "d5c5ed1f3ec1be539b64761679e82004dabcb9e2",
     "commitName": "feat:crear totalizador y su test inicial",
     "commitTimestamp": 1788832772197,
     "testId": 0
+  },
+  {
+    "numPassedTests": 0,
+    "failedTests": 1,
+    "numTotalTests": 1,
+    "timestamp": 1788832791785,
+    "success": false,
+    "testId": 1
+  },
+  {
+    "numPassedTests": 1,
+    "failedTests": 0,
+    "numTotalTests": 1,
+    "timestamp": 1788832876425,
+    "success": true,
+    "testId": 1
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "calcular precio multiplicando cantidad y precio",
+    "commitTimestamp": 1788832921534,
+    "testId": 1
   }
 ]

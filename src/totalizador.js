@@ -1,4 +1,4 @@
 function totalizador(cantidad, precio) {
-  return;
+  return cantidad * precio;
 }
 export default totalizador;

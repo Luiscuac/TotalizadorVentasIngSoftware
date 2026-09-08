@@ -1,11 +1,11 @@
 [
   {
-    "sha": "HEAD",
+    "sha": "d5c5ed1f3ec1be539b64761679e82004dabcb9e2",
     "author": "Luiscuac",
     "commit": {
       "date": "2026-09-08T01:59:30.000Z",
       "message": "feat:crear totalizador y su test inicial",
-      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/d5c5ed1f3ec1be539b64761679e82004dabcb9e2"
     },
     "stats": {
       "total": 6384,
@@ -17,5 +17,24 @@
     "test_count": 1,
     "failed_tests": 1,
     "conclusion": "failure"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luiscuac",
+    "commit": {
+      "date": "2026-09-08T02:02:00.000Z",
+      "message": "calcular precio multiplicando cantidad y precio",
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 5,
+      "additions": 2,
+      "deletions": 3,
+      "date": "2026-09-08"
+    },
+    "coverage": 100,
+    "test_count": 1,
+    "failed_tests": 0,
+    "conclusion": "success"
   }
 ]
