@@ -1,0 +1,16 @@
+[
+  {
+    "numPassedTests": 0,
+    "failedTests": 1,
+    "numTotalTests": 1,
+    "timestamp": 1788832687179,
+    "success": false,
+    "testId": 0
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:crear totalizador y su test inicial",
+    "commitTimestamp": 1788832772197,
+    "testId": 0
+  }
+]
