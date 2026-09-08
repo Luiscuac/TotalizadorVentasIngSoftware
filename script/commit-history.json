@@ -57,12 +57,12 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "311e25261a9447b86ca3d6d306063627cd7e0594",
     "author": "Luiscuac",
     "commit": {
       "date": "2026-09-08T02:11:58.000Z",
       "message": "feat: implementar descuento del 3% para montos iguales o mayores a 1000",
-      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/311e25261a9447b86ca3d6d306063627cd7e0594"
     },
     "stats": {
       "total": 10,
@@ -72,6 +72,25 @@
     },
     "coverage": 100,
     "test_count": 2,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luiscuac",
+    "commit": {
+      "date": "2026-09-08T02:13:12.000Z",
+      "message": "feat: implementar descuento del 5% para montos iguales o mayores a 3000",
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 13,
+      "additions": 10,
+      "deletions": 3,
+      "date": "2026-09-08"
+    },
+    "coverage": 100,
+    "test_count": 3,
     "failed_tests": 0,
     "conclusion": "success"
   }

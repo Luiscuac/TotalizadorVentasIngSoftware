@@ -66,9 +66,23 @@
     "testId": 3
   },
   {
-    "commitId": "HEAD",
+    "commitId": "311e25261a9447b86ca3d6d306063627cd7e0594",
     "commitName": "feat: implementar descuento del 3% para montos iguales o mayores a 1000",
     "commitTimestamp": 1788833519186,
     "testId": 3
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 0,
+    "numTotalTests": 3,
+    "timestamp": 1788833578485,
+    "success": true,
+    "testId": 4
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat: implementar descuento del 5% para montos iguales o mayores a 3000",
+    "commitTimestamp": 1788833593395,
+    "testId": 4
   }
 ]

@@ -6,7 +6,11 @@ describe("Totalizador de Ventas", () => {
         expect(totalizadorInstance.calcularNeto(20, 3)).toEqual(60);
     });
     it("deberia calcular 3% de descuento para un precio neto de 1000", () => {
-    let totalizador = new Totalizador();
-    expect(totalizador.calcularDescuento(1000)).toEqual(30); 
-});
+        let totalizador = new Totalizador();
+        expect(totalizador.calcularDescuento(1000)).toEqual(30); 
+    });
+    it("deberia calcular 5% de descuento para un precio neto de 3000", () => {
+        let totalizador = new Totalizador();
+        expect(totalizador.calcularDescuento(3000)).toEqual(150); 
+    });
 });
