@@ -80,9 +80,31 @@
     "testId": 4
   },
   {
-    "commitId": "HEAD",
+    "commitId": "a41f9ecde37747ebca7d1d35f66d10f432aae948",
     "commitName": "feat: implementar descuento del 5% para montos iguales o mayores a 3000",
     "commitTimestamp": 1788833593395,
     "testId": 4
+  },
+  {
+    "numPassedTests": 3,
+    "failedTests": 1,
+    "numTotalTests": 4,
+    "timestamp": 1788833672445,
+    "success": false,
+    "testId": 5
+  },
+  {
+    "numPassedTests": 4,
+    "failedTests": 0,
+    "numTotalTests": 4,
+    "timestamp": 1788833807985,
+    "success": true,
+    "testId": 5
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "refactor: redondear calculos de dinero a dos decimales para evitar problemas de precision y calcular 7% de descuento",
+    "commitTimestamp": 1788833851858,
+    "testId": 5
   }
 ]
