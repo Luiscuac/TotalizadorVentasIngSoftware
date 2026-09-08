@@ -209,17 +209,36 @@
     "conclusion": "success"
   },
   {
-    "sha": "HEAD",
+    "sha": "c69faf2f4fcb54961e47430240bf795f8623c6cb",
     "author": "Luiscuac",
     "commit": {
       "date": "2026-09-08T02:47:08.000Z",
       "message": "feat:presenter para mostrar los resultados",
-      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/c69faf2f4fcb54961e47430240bf795f8623c6cb"
     },
     "stats": {
       "total": 33,
       "additions": 33,
       "deletions": 0,
+      "date": "2026-09-08"
+    },
+    "coverage": 100,
+    "test_count": 9,
+    "failed_tests": 0,
+    "conclusion": "success"
+  },
+  {
+    "sha": "HEAD",
+    "author": "Luiscuac",
+    "commit": {
+      "date": "2026-09-08T02:48:22.000Z",
+      "message": "feat:interfaz de usuario",
+      "url": "https://github.com/Luiscuac/TotalizadorVentasIngSoftware/commit/HEAD"
+    },
+    "stats": {
+      "total": 36,
+      "additions": 26,
+      "deletions": 10,
       "date": "2026-09-08"
     },
     "coverage": 100,

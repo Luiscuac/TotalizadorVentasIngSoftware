@@ -194,9 +194,15 @@
     "testId": 10
   },
   {
-    "commitId": "HEAD",
+    "commitId": "c69faf2f4fcb54961e47430240bf795f8623c6cb",
     "commitName": "feat:presenter para mostrar los resultados",
     "commitTimestamp": 1788835629927,
     "testId": 11
+  },
+  {
+    "commitId": "HEAD",
+    "commitName": "feat:interfaz de usuario",
+    "commitTimestamp": 1788835703177,
+    "testId": 12
   }
 ]
